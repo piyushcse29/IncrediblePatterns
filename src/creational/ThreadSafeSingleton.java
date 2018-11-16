@@ -2,11 +2,11 @@ package creational;
 
 public class ThreadSafeSingleton {
 
-    volatile ThreadSafeSingleton obj = null;
+   private static volatile ThreadSafeSingleton obj = null;
 
     private ThreadSafeSingleton(){}
 
-    public ThreadSafeSingleton getInstance(){
+    public static ThreadSafeSingleton getInstance(){
         if(obj == null) {
             synchronized (ThreadSafeSingleton.class) {
                 if (obj == null) {
