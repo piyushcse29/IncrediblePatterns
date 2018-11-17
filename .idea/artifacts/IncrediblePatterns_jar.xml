@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IncrediblePatterns:jar">
+    <output-path>$USER_HOME$/Downloads</output-path>
+    <root id="archive" name="IncrediblePatterns.jar">
+      <element id="module-output" name="IncrediblePatterns" />
+    </root>
+  </artifact>
+</component>
