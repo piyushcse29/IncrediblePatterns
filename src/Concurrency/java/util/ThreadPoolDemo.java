@@ -14,8 +14,6 @@ public class ThreadPoolDemo {
 
     }
 
-
-
     static void threadPoolDemo(){
 
        //Fixed Size

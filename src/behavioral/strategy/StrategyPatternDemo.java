@@ -10,6 +10,5 @@ public class StrategyPatternDemo {
         //Multiplication
         Context cnt2 = new Context(new Multiplication());
         System.out.println(cnt.doOperation(2, 2));
-
     }
 }
