@@ -1,4 +1,4 @@
-package structural.Adapter;
+package structural.adapter;
 
 // EnemyTank implements EnemyAttacker perfectly
 // Our job is to make classes with different methods

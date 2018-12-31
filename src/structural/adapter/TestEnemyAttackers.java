@@ -1,4 +1,4 @@
-package structural.Adapter;
+package structural.adapter;
 
 public class TestEnemyAttackers{
 

@@ -1,4 +1,4 @@
-package structural.Adapter;
+package structural.adapter;
 
 // This is the Target Interface : This is what the client
 // expects to work with. It is the adapters job to make new

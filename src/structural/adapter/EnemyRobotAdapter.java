@@ -1,4 +1,4 @@
-package structural.Adapter;
+package structural.adapter;
 
 // The Adapter must provide an alternative action for
 // the the methods that need to be used because
